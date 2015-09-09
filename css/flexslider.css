@@ -93,18 +93,10 @@ html[xmlns] .zeeslides {display: block;}
 #frontpage-slider .zeeslide .slide-entry .slide-title a:hover, #frontpage-slider .zeeslide .slide-entry .slide-title a:active{
 	color: #ccc;
 }
-#frontpage-slider .zeeslide .slide-entry .slide-more-link, 
-#frontpage-slider .zeeslide .slide-entry .slide-more-link:link, 
-#frontpage-slider .zeeslide .slide-entry .slide-more-link:visited {
-	color: #eee;
-	font-style: italic;
-	display: inline-block;
-	margin: 0.3em 0;
-}
-#frontpage-slider .zeeslide .slide-entry.slide-more-link:hover, 
-#frontpage-slider .zeeslide .slide-entry.slide-more-link:active{
-	text-decoration: underline;
-}
+	#frontpage-slider .zeeslide .slide-entry .slide-content,
+	#frontpage-slider .zeeslide .slide-entry .slide-more-link {
+		display: none !important;
+	}
 .frontpage-slider-controls {
 	clear: left;
 }
