@@ -144,7 +144,7 @@ input, textarea, select {
 }
 #sidebar {
 	margin-left: 70%;
-	width: 30%;
+	width: 25%;
 	padding: 1em;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -1394,7 +1394,7 @@ embed, iframe, object, video {
 	}
 	#sidebar {
 		margin-left: 67%;
-		width: 33%;
+		width: 25%;
 	}
 	#logo .site-title {
 		float: none;
