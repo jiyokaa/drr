@@ -1879,4 +1879,8 @@ embed, iframe, object, video {
 		display: block !important;
 	}
 }
-
+  table#table1 {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+  }
